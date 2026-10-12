@@ -53,7 +53,7 @@ As a penetration tester, your role when reviewing a website or web application i
 
 Finding interactive portions of the website can range from spotting a login form to manually reviewing the website's JavaScript. An excellent place to start is just with your browser; explore the website, note down the individual pages, areas, and features, and include a summary for each. After visiting the Acme IT Support website, you will see the following page:
 
-![Acme IP Support 1](Images/Acme_IP_Support_1.png)
+![Acme IP Support 1](Acme_IP_Support_1.png)
 
 An example site review for the Acme IT Support website would look something like this:
 
