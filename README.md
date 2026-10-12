@@ -1,16 +1,12 @@
-# Writeups for TryHackMe
+# Umar3P Challenges TryHackMe
 
 ![TryHackMe Logo](TryHackMe_logo.png)
 
-Welcome to [my](https://tryhackme.com/p/Cajac) writeups for [TryHackMe](https://tryhackme.com/) [challenges](https://tryhackme.com/challenges), [networks](https://tryhackme.com/hacktivities?tab=network) and [walkthroughs](https://tryhackme.com/hacktivities?tab=rooms).
-
-In addition, many [modules](https://tryhackme.com/hacktivities?tab=modules) and a few [learning paths](https://tryhackme.com/hacktivities?tab=paths) are included.
+Welcome to my writeups for [TryHackMe](https://tryhackme.com/) [challenges](https://tryhackme.com/challenges)
 
 These writeups are mainly a documentation for myself but I hope others will benefit from them as well.  
 
-In total you will find more than **275 room solutions** here.
-
-This repository is part of my evolving efforts to [build](https://www.buildingasecondbrain.com/) my [second](https://fortelabs.com/blog/basboverview/) [brain](https://fortelabs.com/blog/the-7-benefits-of-building-a-second-brain/).
+You will find many challenges here.
 
 ## Challenges
 
@@ -116,41 +112,5 @@ This repository is part of my evolving efforts to [build](https://www.buildingas
   - [Networking](Walkthroughs/Info/README.md#networking)
   - [Web](Walkthroughs/Info/README.md#web)
   - [Windows](Walkthroughs/Info/README.md#windows)
-
-## When to use
-
-These solutions can be used in two different scenarios:
-
-**Scenario #1**:  
-When you are stuck, have already tried different solutions on your own, and don't know how to continue.  
-Don't look at them to soon though. It's always good to develop your ["Try harder"-mindset](https://www.offsec.com/blog/what-it-means-to-try-harder/)!
-
-**Scenario #2**:  
-When you have already solved the challenge on your own but want to see if you can learn different methods, tools or approaches.
-Are there different and perhaps smarter ways to solve this challenge?
-
-## No flag spoilers
-
-The solutions contain step-by-step guides but doesn't display the flags for the challenges in plain text.  
-Instead, the flags are displayd as `THM{<REDACTED>}` or something similar.
-
-Answers for walktroughs are usually provided unless they are flag-like.
-
-## Support my work
-
-If you appreciate this repository and learn from it, please consider [giving it a star](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars#starring-a-repository) to support me and spread the word.
-
-## Language disclaimer
-
-I'm not a native English speaker so please forgive any spelling mistakes or grammatical errors.
-
-## Acknowledgements
-
-Some of the solutions were inspired by writeups and walkthroughs from these guys:
-
-- [Djalil Ayed](https://www.youtube.com/@djalilayed)
-- [igor_sec](https://medium.com/@huglertomgaw)
-- [jcm3](https://medium.com/@jcm3)
-- [Motasem Hamdan](https://www.youtube.com/@MotasemHamdan)
 - RosanaFSS ([Medium](https://medium.com/@RosanaFS) and [GitHub](https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey))
 - [Z3pH7](https://medium.com/@Z3pH7)
