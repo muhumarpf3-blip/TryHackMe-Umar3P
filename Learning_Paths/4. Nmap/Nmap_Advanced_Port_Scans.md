@@ -34,7 +34,7 @@ In [Nmap Basic Port Scans](https://tryhackme.com/room/nmap02), we covered TCP fl
 
 Security researchers and hackers contemplated the TCP flags, shown in the figure below and explained in the previous room, and started to experiment. They wanted to know what would happen if we send a TCP packet, which is not part of any ongoing TCP connection, with one or more flags set.
 
-![TCP Packet Header](Images/TCP_Packet_Header.png)
+![TCP Packet Header](TCP_Packet_Header.png)
 
 For instance, an ACK flag is set when you want to acknowledge received data. An ACK scan is like trying to acknowledge data that was neither sent nor received in the first place. Consider this simple analogy, someone coming to you out of nowhere to tell you, “yes, I hear you, please continue.” when you haven’t said anything.
 
